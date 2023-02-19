@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Asad006/Photo-Scavenger-Hunt/blob/main/Simulator-Screen.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ios screen recorder
 
